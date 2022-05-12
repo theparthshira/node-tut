@@ -1,0 +1,1 @@
+Result is: Hello this is first txt file., Hello this is second txt file.Result is: Hello this is first txt file., Hello this is second txt file.
